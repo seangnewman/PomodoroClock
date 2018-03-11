@@ -41,6 +41,7 @@ function timeRestore(){
     $("#startButton").show();
     $("#minus5Clock").show();
     $("#addFiveSessionButton").show();
+    $("#subFiveSessionButton").show();
     $("#subFiveBreakButton").show();
     $("#addFiveBreakButton").show();
     $("#sessionTitle").show();
